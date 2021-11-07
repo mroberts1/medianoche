@@ -9,8 +9,8 @@ demo = "https://zola-after-dark.netlify.com"
 
 
 [author]
-name = "Vincent Prouillet"
-homepage = "https://www.vincentprouillet.com"
+name = "Martin Roberts"
+homepage = "https://mroberts.emerson.build"
 
 [original]
 author =  "comfusion"
