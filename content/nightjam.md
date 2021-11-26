@@ -1,9 +1,8 @@
 +++
 title = "NightJam"
 date = 2021-11-26
-category = "Video"
-
 [taxonomies]
+categories = ["Music Video"]
 tags = ["music-video", "city", "london", "scanner"]
 +++
 <p><div>
