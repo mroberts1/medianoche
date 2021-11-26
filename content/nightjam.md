@@ -6,7 +6,7 @@ categories = ["Music Video"]
 tags = ["music-video", "city", "london", "scanner"]
 +++
 <p><div>
- <iframe width="656" height="370" src="https://www.youtube.com/embed/TKvYw1DjFHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+ <iframe width="328" height="185" src="https://www.youtube.com/embed/TKvYw1DjFHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 </div></p>  
 <p>Music video for tracks Sleepless City and S'alright created for Scanner's collaborative music project 'NightJam'. The tracks are set to images of the nocturnal city, using photographs produced with the New Horizon Youth Centre in King’s Cross. Bleary traffic lights, curtained windows, party people and figures moving across the city are captured against the dark backdrop of the night.</p>
 
